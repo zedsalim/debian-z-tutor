@@ -168,7 +168,7 @@
 ![Screenshot](img/88.PNG)
 ![Screenshot](img/89.PNG)
 ![Screenshot](img/90.PNG)
-![Screenshot](img/91.PNG)
-![Screenshot](img/92.PNG)
+![Screenshot](img/91.png)
+![Screenshot](img/92.png)
 
 Congratulations! You have successfully installed Debian-Z on your system. You can now explore and customize your System according to your needs.
