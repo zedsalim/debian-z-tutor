@@ -90,25 +90,85 @@
 ![Screenshot](img/32.PNG)
 ![Screenshot](img/33.PNG)
 ![Screenshot](img/34.PNG)
+![Screenshot](img/35.PNG)
+
+11. **Configure te clock:**
+
+![Screenshot](img/36.PNG)
+![Screenshot](img/37.PNG)
+![Screenshot](img/38.PNG)
+![Screenshot](img/40.PNG)
 
 11. **Configure disk partitions:**
     - Choose the installation type based on your preference (e.g., guided partitioning or manual partitioning).
     - Follow the prompts to set up the disk partitions. You can choose to use the entire disk or create custom partitions.
 
+![Screenshot](img/41.PNG)
+![Screenshot](img/42.PNG)
+![Screenshot](img/44.PNG)
+![Screenshot](img/45.PNG)
+![Screenshot](img/46.PNG)
+![Screenshot](img/47.PNG)
+![Screenshot](img/48.PNG)
+
+12. **Install the base system:**
+
+![Screenshot](img/49.PNG)
+![Screenshot](img/51.PNG)
+![Screenshot](img/52.PNG)
+
+12. **Configue the package manager:**
+
+![Screenshot](img/54.PNG)
+![Screenshot](img/55.PNG)
+![Screenshot](img/56.PNG)
+![Screenshot](img/57.PNG)
+![Screenshot](img/58.PNG)
+![Screenshot](img/59.PNG)
+![Screenshot](img/60.PNG)
+![Screenshot](img/62.PNG)
+![Screenshot](img/63.PNG)
+![Screenshot](img/64.PNG)
+![Screenshot](img/66.PNG)
+
+
 12. **Select software packages:**
-    - Choose the software packages you want to install. The default selection includes a basic desktop environment.
+    - Choose the software packages you want to install. The default selection includes a basic desktop environment but we won't install them, we will install a Window Manager instead.
+
+![Screenshot](img/67.PNG)
+![Screenshot](img/69.PNG)
+![Screenshot](img/70.PNG)
+![Screenshot](img/71.PNG)
 
 13. **Install the GRUB bootloader:**
     - Choose the disk where you want to install the GRUB bootloader.
     - Select "Yes" when asked to install GRUB.
 
+![Screenshot](img/73.PNG)
+![Screenshot](img/74.PNG)
+![Screenshot](img/75.PNG)
+![Screenshot](img/76.PNG)
+
 14. **Complete the installation:**
     - Wait for the installation process to finish.
-    - Remove the installation media (USB or DVD) when prompted.
-    - Restart your computer.
+
+![Screenshot](img/78.PNG)
+![Screenshot](img/79.PNG)
+![Screenshot](img/80.PNG)
 
 15. **Login to your Debian system:**
     - After the system restarts, you'll be presented with the login screen.
     - Enter your username and password that you created during the installation process.
 
-Congratulations! You have successfully installed Debian 12 on your system. You can now explore and customize your Debian installation according to your needs.
+![Screenshot](img/81.PNG)
+![Screenshot](img/82.PNG)
+![Screenshot](img/83.PNG)
+![Screenshot](img/85.PNG)
+![Screenshot](img/86.PNG)
+![Screenshot](img/88.PNG)
+![Screenshot](img/89.PNG)
+![Screenshot](img/90.PNG)
+![Screenshot](img/91.PNG)
+![Screenshot](img/92.PNG)
+
+Congratulations! You have successfully installed Debian-Z on your system. You can now explore and customize your System according to your needs.
