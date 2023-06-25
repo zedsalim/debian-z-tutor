@@ -67,13 +67,13 @@
 ![Screenshot](img/20.PNG)
 ![Screenshot](img/21.PNG)
 
-8. **Set the system hostname:**
+9. **Set the system hostname:**
    - Enter a hostname for your Debian system (e.g., "debian").
 
 ![Screenshot](img/23.PNG)
 ![Screenshot](img/24.PNG)
 
-9. **Choose a mirror:**
+10. **Choose a mirror:**
 
 ![Screenshot](img/25.PNG)
 ![Screenshot](img/26.PNG)
@@ -81,7 +81,7 @@
 ![Screenshot](img/28.PNG)
 ![Screenshot](img/29.PNG)
 
-10. **Create a regular user account:**
+11. **Create a regular user account:**
     - Provide the necessary information (username, full name) for creating a regular user account.
     - Set a strong password for the user account.
 
@@ -92,14 +92,14 @@
 ![Screenshot](img/34.PNG)
 ![Screenshot](img/35.PNG)
 
-11. **Configure te clock:**
+12. **Configure te clock:**
 
 ![Screenshot](img/36.PNG)
 ![Screenshot](img/37.PNG)
 ![Screenshot](img/38.PNG)
 ![Screenshot](img/40.PNG)
 
-11. **Configure disk partitions:**
+13. **Configure disk partitions:**
     - Choose the installation type based on your preference (e.g., guided partitioning or manual partitioning).
     - Follow the prompts to set up the disk partitions. You can choose to use the entire disk or create custom partitions.
 
@@ -111,13 +111,13 @@
 ![Screenshot](img/47.PNG)
 ![Screenshot](img/48.PNG)
 
-12. **Install the base system:**
+14. **Install the base system:**
 
 ![Screenshot](img/49.PNG)
 ![Screenshot](img/51.PNG)
 ![Screenshot](img/52.PNG)
 
-12. **Configue the package manager:**
+15. **Configue the package manager:**
 
 ![Screenshot](img/54.PNG)
 ![Screenshot](img/55.PNG)
@@ -132,7 +132,7 @@
 ![Screenshot](img/66.PNG)
 
 
-12. **Select software packages:**
+16. **Select software packages:**
     - Choose the software packages you want to install. The default selection includes a basic desktop environment but we won't install them, we will install a Window Manager instead.
 
 ![Screenshot](img/67.PNG)
@@ -140,7 +140,7 @@
 ![Screenshot](img/70.PNG)
 ![Screenshot](img/71.PNG)
 
-13. **Install the GRUB bootloader:**
+17. **Install the GRUB bootloader:**
     - Choose the disk where you want to install the GRUB bootloader.
     - Select "Yes" when asked to install GRUB.
 
@@ -149,14 +149,14 @@
 ![Screenshot](img/75.PNG)
 ![Screenshot](img/76.PNG)
 
-14. **Complete the installation:**
+18. **Complete the installation:**
     - Wait for the installation process to finish.
 
 ![Screenshot](img/78.PNG)
 ![Screenshot](img/79.PNG)
 ![Screenshot](img/80.PNG)
 
-15. **Login to your Debian system:**
+19. **Login to your Debian system:**
     - After the system restarts, you'll be presented with the login screen.
     - Enter your username and password that you created during the installation process.
 
